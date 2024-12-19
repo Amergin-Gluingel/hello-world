@@ -9,3 +9,5 @@ edited
 saved
 comitted
 pulled
+merged to github
+delete branch
